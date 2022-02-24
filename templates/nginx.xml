@@ -17,7 +17,7 @@
   </Overview>
   <Support>https://forums.unraid.net/topic/92101-support-binhex-nginx/</Support>
   <ReadMe>https://github.com/earnhardt3rd/documentation</ReadMe>
-  <Registry>https://registry.hub.docker.com/r/binhex/arch-nginx/</Registry>
+  <Registry>https://registry.hub.docker.com/r/earnhardt/arch-nginx/</Registry>
   <GitHub>https://github.com/earnhardt3rd/arch-nginx</GitHub>
   <Repository>earnhardt3rd/arch-nginx</Repository>
   <Project>https://www.nginx.com/</Project>
